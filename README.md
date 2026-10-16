@@ -45,13 +45,6 @@ Linux / macOS aktiválás: `source .venv/bin/activate`
 
 ## Futtatás
 
-Előkészítés:
-
-```bash
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
 Interaktív felület:
 
 ```bash
