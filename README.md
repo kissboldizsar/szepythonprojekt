@@ -48,6 +48,12 @@ Linux / macOS aktiválás: `source .venv/bin/activate`
 Interaktív felület:
 
 ```bash
+python -m venv .venv
+
+.\.venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
 streamlit run app.py
 ```
 
